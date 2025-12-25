@@ -1,0 +1,7 @@
+{
+  "name": "AZ-construction LTD",
+  "description": "Premium construction and development services in the Land of a Thousand Hills, Rwanda. Excellence in structural engineering, architectural planning, and site preparation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
